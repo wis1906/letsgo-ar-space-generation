@@ -1,0 +1,877 @@
+﻿Log file open, 11/10/21 23:52:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: LetsGo
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(579484230) SRandInit(579484230).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290896
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleARCore
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ApproxMVBB
+LogPluginManager: Mounting plugin ObjectBuilder
+LogPluginManager: Mounting plugin OpenCV410
+LogStreaming: Display: Took  0.124s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Binaries/Win64/UE4Editor-LetsGo-9969.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreBase.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreRendering.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Warning: Module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ApproxMVBB/Binaries/Win64/UE4Editor-ApproxMVBB-7748.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Warning: Module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ObjectBuilder/Binaries/Win64/UE4Editor-ObjectBuilder-7737.dll is missing. This is likely a stale module that must be recompiled.
+LogModuleManager: Warning: Module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410-5102.dll is missing. This is likely a stale module that must be recompiled.
+LogInit: Warning: Incompatible or missing module: UE4Editor-ApproxMVBB.dll
+LogInit: Warning: Incompatible or missing module: UE4Editor-ObjectBuilder.dll
+LogInit: Warning: Incompatible or missing module: UE4Editor-OpenCV410.dll
+Running E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/DotNET/UnrealBuildTool.exe LetsGo Development Win64 -project="E:/Unreal_Project/4.19.2/LetsGo/LetsGo.uproject" -editorrecompile -progress -NoHotReloadFromIDE
+@progress push 5%
+@progress pop
+Deleting old hot reload file: "E:\Unreal_Project\4.19.2\LetsGo\Binaries\Win64\UE4Editor-LetsGo-9969.dll".
+Deleting old hot reload file: "E:\Unreal_Project\4.19.2\LetsGo\Binaries\Win64\UE4Editor-LetsGo-9969.pdb".
+Performing 2 actions (4 in parallel)
+[1/2] Link UE4Editor-LetsGo.dll
+[2/2] Link UE4Editor-LetsGo.lib
+   E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo.lib ???̺귯?? ?? E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+object_builders_lib.lib(min_box_object_builder.obj) : /GL?? ???????? MSIL .netmodule ?Ǵ? ?????? ?ֽ??ϴ?. /LTCG?? ?????Ͽ? ??ũ?? ?ٽ? ?????Ͻʽÿ?. /LTCG?? ??ũ ?????ٿ? ?߰??ϸ? ??Ŀ ?????? ?????˴ϴ?.
+   E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo.suppressed.lib ???̺귯?? ?? E:\Unreal_Project\4.19.2\LetsGo\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LetsGo.suppressed.exp ??ü?? ?????ϰ? ?ֽ??ϴ?.
+?ڵ带 ?????ϰ? ?ֽ??ϴ?.
+?ڵ带 ?????߽??ϴ?.
+Total build time: 17.74 seconds (Local executor: 16.90 seconds)
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Binaries/Win64/UE4Editor-LetsGo.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreBase.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleARCore/Binaries/Win64/UE4Editor-GoogleARCoreRendering.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ApproxMVBB/Binaries/Win64/UE4Editor-ApproxMVBB.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/ObjectBuilder/Binaries/Win64/UE4Editor-ObjectBuilder.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Unreal_Project/4.19.2/LetsGo/Plugins/OpenCV410/Binaries/Win64/UE4Editor-OpenCV410.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-5SHH7PE (192.168.136.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2021.11.10-14.53.40:125][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-14.53.40:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.10-14.53.40:162][  0]LogInit: Computer: DESKTOP-5SHH7PE
+[2021.11.10-14.53.40:162][  0]LogInit: User: KISIK
+[2021.11.10-14.53.40:162][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.11.10-14.53.40:162][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.10-14.53.40:162][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.10-14.53.40:162][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.10-14.53.40:162][  0]LogMemory: Process Physical Memory: 287.23 MB used, 287.69 MB peak
+[2021.11.10-14.53.40:162][  0]LogMemory: Process Virtual Memory: 270.68 MB used, 270.68 MB peak
+[2021.11.10-14.53.40:162][  0]LogMemory: Physical Memory: 15971.41 MB used,  16732.96 MB free, 32704.37 MB total
+[2021.11.10-14.53.40:162][  0]LogMemory: Virtual Memory: 4834.51 MB used,  16732.96 MB free, 134217728.00 MB total
+[2021.11.10-14.53.40:310][  0]LogInit: Using OS detected language (ko-KR).
+[2021.11.10-14.53.40:310][  0]LogInit: Using OS detected locale (ko-KR).
+[2021.11.10-14.53.40:314][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2021.11.10-14.53.40:691][  0]LogStreaming: Display: Took  0.382s to EndInitTextLocalization.
+[2021.11.10-14.53.40:692][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.10-14.53.40:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.10-14.53.40:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.10-14.53.41:147][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.10-14.53.41:231][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2021.11.10-14.53.41:231][  0]LogD3D11RHI:       4043/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2021.11.10-14.53.41:235][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.10-14.53.41:235][  0]LogD3D11RHI:       0/0/16352 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.10-14.53.41:235][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.10-14.53.41:244][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.10-14.53.41:245][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.10-14.53.41:245][  0]LogWindows: EnumDisplayDevices:
+[2021.11.10-14.53.41:245][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.11.10-14.53.41:246][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2021.11.10-14.53.41:247][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2021.11.10-14.53.41:247][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2021.11.10-14.53.41:248][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2021.11.10-14.53.41:248][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2021.11.10-14.53.41:248][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.11.10-14.53.41:248][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.11.10-14.53.41:248][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2021.11.10-14.53.41:301][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.11.10-14.53.41:301][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2021.11.10-14.53.41:301][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.10-14.53.41:314][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.10-14.53.41:332][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Unreal_Project/4.19.2/LetsGo/Intermediate/Shaders/WorkingDirectory/30792/).
+[2021.11.10-14.53.41:332][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/KISIK/AppData/Local/Temp/UnrealShaderWorkingDir/9A5B52B34E5F42918ADE74AC54F7ED3E/'.
+[2021.11.10-14.53.41:663][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2021.11.10-14.53.41:679][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2021.11.10-14.53.41:701][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2021.11.10-14.53.41:719][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2021.11.10-14.53.41:738][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2021.11.10-14.53.41:756][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2021.11.10-14.53.41:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2021.11.10-14.53.41:787][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2021.11.10-14.53.41:795][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2021.11.10-14.53.41:810][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2021.11.10-14.53.41:825][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2021.11.10-14.53.41:839][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2021.11.10-14.53.41:855][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2021.11.10-14.53.41:870][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2021.11.10-14.53.41:883][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2021.11.10-14.53.41:913][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2021.11.10-14.53.41:913][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2021.11.10-14.53.41:929][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2021.11.10-14.53.41:931][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2021.11.10-14.53.41:970][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2021.11.10-14.53.41:985][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2021.11.10-14.53.42:000][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2021.11.10-14.53.42:014][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2021.11.10-14.53.42:030][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2021.11.10-14.53.42:045][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2021.11.10-14.53.42:045][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.10-14.53.42:197][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.10-14.53.42:197][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.10-14.53.42:197][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.10-14.53.42:959][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: Loaded boot cache 0.07s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal_Project/4.19.2/LetsGo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.10-14.53.43:032][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.10-14.53.43:047][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.10-14.53.43:061][  0]LogDerivedDataCache: Using Local data cache path C:/Users/KISIK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.10-14.53.43:061][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.10-14.53.43:061][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.10-14.53.43:074][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2021.11.10-14.53.43:075][  0]LogSlate: Using Freetype 2.6.0
+[2021.11.10-14.53.43:075][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-14.53.43:075][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.10-14.53.43:241][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2021.11.10-14.53.44:381][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.10-14.53.44:560][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2021.11.10-14.53.44:563][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2021.11.10-14.53.44:563][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.10-14.53.44:563][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2021.11.10-14.53.44:563][  0]LogMeshReduction: No automatic mesh merging module available
+[2021.11.10-14.53.44:563][  0]LogMeshMerging: No automatic mesh merging module available
+[2021.11.10-14.53.44:614][  0]LogNetVersion: LetsGo , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1751961038)
+[2021.11.10-14.53.45:155][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 2 prioritized culture(s) in 0.122475 seconds
+[2021.11.10-14.53.45:160][  0]LogUObjectArray: 36745 objects as part of root set at end of initial load.
+[2021.11.10-14.53.45:160][  0]LogUObjectAllocator: 7321952 out of 0 bytes used by permanent object pool.
+[2021.11.10-14.53.45:160][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.10-14.53.47:179][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.10-14.53.47:217][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.10-14.53.47:800][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.11.10-14.53.47:800][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.11.10-14.53.47:826][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.11.10-14.53.47:854][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.11.10-14.53.48:503][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.10-14.53.49:130][  0]LogOcInput: OculusInput pre-init called
+[2021.11.10-14.53.49:395][  0]LogEngine: Initializing Engine...
+[2021.11.10-14.53.49:397][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.10-14.53.49:400][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.11.10-14.53.49:401][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.11.10-14.53.49:625][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.10-14.53.49:887][  0]LogInit: XAudio2 using 'S27D850(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.11.10-14.53.49:963][  0]LogInit: FAudioDevice initialized.
+[2021.11.10-14.53.50:046][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/KISIK/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2021.11.10-14.53.50:062][  0]LogInit: Texture streaming: Enabled
+[2021.11.10-14.53.50:083][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.10-14.53.50:097][  0]LogInit: Transaction tracking system initialized
+[2021.11.10-14.53.50:125][  0]BlueprintLog: New page: 에디터 로드
+[2021.11.10-14.53.50:200][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2021.11.10-14.53.50:315][  0]LogConsoleResponse: Display: 
+[2021.11.10-14.53.50:465][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.11.10-14.53.50:465][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.10-14.53.50:465][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2021.11.10-14.53.50:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2021.11.10-14.53.50:465][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2021.11.10-14.53.50:955][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/' took 0.05s
+[2021.11.10-14.53.50:955][  0]SourceControl: 소스 콘트롤이 꺼졌습니다.
+[2021.11.10-14.53.50:955][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.10-14.53.50:956][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-14.53.50:958][  0]MapCheck: New page: 맵 체크
+[2021.11.10-14.53.50:958][  0]LightingResults: New page: 라이팅 빌드
+[2021.11.10-14.53.50:999][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498495e980, Size=352, Default__BP_BoundingBoxMgr_C Function /Game/Blueprint/BoundingBox/BP_BoundingBoxMgr.BP_BoundingBoxMgr_C:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.11.10-14.53.51:004][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498495e980, Size=352
+[2021.11.10-14.53.51:004][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498499c580, Size=352, Default__BP_BoundingBoxMgr_C Function /Engine/Transient.REINST_BP_BoundingBoxMgr_C_5:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.11.10-14.53.51:009][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149848cf880, Size=352, Default__BP_BoundingBoxMgr_C Function /Game/Blueprint/BoundingBox/BP_BoundingBoxMgr.BP_BoundingBoxMgr_C:ExecuteUbergraph_BP_BoundingBoxMgr
+[2021.11.10-14.53.51:081][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498621f340, Size=88, Default__BP_DrawMgr_C Function /Game/Blueprint/BP_DrawMgr.BP_DrawMgr_C:ExecuteUbergraph_BP_DrawMgr
+[2021.11.10-14.53.51:083][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498621f340, Size=88
+[2021.11.10-14.53.51:083][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498621f340, Size=88, Default__BP_DrawMgr_C Function /Engine/Transient.REINST_BP_DrawMgr_C_9:ExecuteUbergraph_BP_DrawMgr
+[2021.11.10-14.53.51:085][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498621f220, Size=88, Default__BP_DrawMgr_C Function /Game/Blueprint/BP_DrawMgr.BP_DrawMgr_C:ExecuteUbergraph_BP_DrawMgr
+[2021.11.10-14.53.51:097][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498622ac00, Size=624, Default__BP_SegmentedVolumeMgr_C Function /Game/Blueprint/SegmentedVolume/BP_SegmentedVolumeMgr.BP_SegmentedVolumeMgr_C:ExecuteUbergraph_BP_SegmentedVolumeMgr
+[2021.11.10-14.53.51:105][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498622ac00, Size=624
+[2021.11.10-14.53.51:105][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498622ac00, Size=624, Default__BP_SegmentedVolumeMgr_C Function /Engine/Transient.REINST_BP_SegmentedVolumeMgr_C_11:ExecuteUbergraph_BP_SegmentedVolumeMgr
+[2021.11.10-14.53.51:111][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985ec2c00, Size=624, Default__BP_SegmentedVolumeMgr_C Function /Game/Blueprint/SegmentedVolume/BP_SegmentedVolumeMgr.BP_SegmentedVolumeMgr_C:ExecuteUbergraph_BP_SegmentedVolumeMgr
+[2021.11.10-14.53.51:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149861b9440, Size=416, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.11.10-14.53.51:137][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149861b9440, Size=416
+[2021.11.10-14.53.51:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149861ca080, Size=416, Default__BP_CubemapMgr_C Function /Engine/Transient.REINST_BP_CubemapMgr_C_13:ExecuteUbergraph_BP_CubemapMgr
+[2021.11.10-14.53.51:147][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149861c8100, Size=416, Default__BP_CubemapMgr_C Function /Game/Blueprint/Cubemap/BP_CubemapMgr.BP_CubemapMgr_C:ExecuteUbergraph_BP_CubemapMgr
+[2021.11.10-14.53.51:156][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3bd60, Size=4, Default__AnimBP_DeerStag_C Function /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Animations/AnimBp_DeerStag.AnimBP_DeerStag_C:ExecuteUbergraph_AnimBP_DeerStag
+[2021.11.10-14.53.51:157][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3bd60, Size=4
+[2021.11.10-14.53.51:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3bd60, Size=4, Default__AnimBP_DeerStag_C Function /Engine/Transient.REINST_AnimBP_DeerStag_C_0:ExecuteUbergraph_AnimBP_DeerStag
+[2021.11.10-14.53.51:158][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b9e8, Size=4, Default__AnimBP_DeerStag_C Function /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Animations/AnimBp_DeerStag.AnimBP_DeerStag_C:ExecuteUbergraph_AnimBP_DeerStag
+[2021.11.10-14.53.51:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b9b8, Size=4, Default__AnimBP_Fox_C Function /Game/Meshes/AnimalVarietyPack/Fox/Animations/AnimBP_Fox.AnimBP_Fox_C:ExecuteUbergraph_AnimBP_Fox
+[2021.11.10-14.53.51:165][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b9b8, Size=4
+[2021.11.10-14.53.51:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b9b8, Size=4, Default__AnimBP_Fox_C Function /Engine/Transient.REINST_AnimBP_Fox_C_1:ExecuteUbergraph_AnimBP_Fox
+[2021.11.10-14.53.51:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b920, Size=4, Default__AnimBP_Fox_C Function /Game/Meshes/AnimalVarietyPack/Fox/Animations/AnimBP_Fox.AnimBP_Fox_C:ExecuteUbergraph_AnimBP_Fox
+[2021.11.10-14.53.51:171][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b8e8, Size=4, Default__AnimBP_Pig_C Function /Game/Meshes/AnimalVarietyPack/Pig/Animations/AnimBP_Pig.AnimBP_Pig_C:ExecuteUbergraph_AnimBP_Pig
+[2021.11.10-14.53.51:173][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b8e8, Size=4
+[2021.11.10-14.53.51:173][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b8e8, Size=4, Default__AnimBP_Pig_C Function /Engine/Transient.REINST_AnimBP_Pig_C_2:ExecuteUbergraph_AnimBP_Pig
+[2021.11.10-14.53.51:174][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b860, Size=4, Default__AnimBP_Pig_C Function /Game/Meshes/AnimalVarietyPack/Pig/Animations/AnimBP_Pig.AnimBP_Pig_C:ExecuteUbergraph_AnimBP_Pig
+[2021.11.10-14.53.51:180][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b830, Size=4, Default__AnimBP_Spider3_C Function /Game/Meshes/Spider/AnimBP_Spider3.AnimBP_Spider3_C:ExecuteUbergraph_AnimBP_Spider3
+[2021.11.10-14.53.51:181][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b830, Size=4
+[2021.11.10-14.53.51:181][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b830, Size=4, Default__AnimBP_Spider3_C Function /Engine/Transient.REINST_AnimBP_Spider3_C_3:ExecuteUbergraph_AnimBP_Spider3
+[2021.11.10-14.53.51:182][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e3b798, Size=4, Default__AnimBP_Spider3_C Function /Game/Meshes/Spider/AnimBP_Spider3.AnimBP_Spider3_C:ExecuteUbergraph_AnimBP_Spider3
+[2021.11.10-14.53.51:201][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d6f380, Size=608, Default__Monster_C Function /Game/Blueprint/MonsterSpawn/Monster.Monster_C:ExecuteUbergraph_Monster
+[2021.11.10-14.53.51:207][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985d6f380, Size=608
+[2021.11.10-14.53.51:207][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d6f380, Size=608, Default__Monster_C Function /Engine/Transient.REINST_Monster_C_19:ExecuteUbergraph_Monster
+[2021.11.10-14.53.51:212][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d6ce00, Size=608, Default__Monster_C Function /Game/Blueprint/MonsterSpawn/Monster.Monster_C:ExecuteUbergraph_Monster
+[2021.11.10-14.53.51:263][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d59940, Size=288, Default__BP_MonsterSpawner_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawner.BP_MonsterSpawner_C:ExecuteUbergraph_BP_MonsterSpawner
+[2021.11.10-14.53.51:267][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985d59940, Size=288
+[2021.11.10-14.53.51:267][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d59940, Size=288, Default__BP_MonsterSpawner_C Function /Engine/Transient.REINST_BP_MonsterSpawner_C_21:ExecuteUbergraph_BP_MonsterSpawner
+[2021.11.10-14.53.51:270][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985d59300, Size=288, Default__BP_MonsterSpawner_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawner.BP_MonsterSpawner_C:ExecuteUbergraph_BP_MonsterSpawner
+[2021.11.10-14.53.51:273][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149845f6a40, Size=192, Default__BP_MonsterSpawnMgr_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawnMgr.BP_MonsterSpawnMgr_C:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.11.10-14.53.51:276][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149845f6a40, Size=192
+[2021.11.10-14.53.51:276][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149845f6a40, Size=192, Default__BP_MonsterSpawnMgr_C Function /Engine/Transient.REINST_BP_MonsterSpawnMgr_C_23:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.11.10-14.53.51:278][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149845f6680, Size=192, Default__BP_MonsterSpawnMgr_C Function /Game/Blueprint/MonsterSpawn/BP_MonsterSpawnMgr.BP_MonsterSpawnMgr_C:ExecuteUbergraph_BP_MonsterSpawnMgr
+[2021.11.10-14.53.51:285][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1825990, Size=16, Default__Drawing_C Function /Game/Blueprint/MonsterSpawn/Drawing.Drawing_C:ExecuteUbergraph_Drawing
+[2021.11.10-14.53.51:286][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e1825990, Size=16
+[2021.11.10-14.53.51:286][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1825990, Size=16, Default__Drawing_C Function /Engine/Transient.REINST_Drawing_C_25:ExecuteUbergraph_Drawing
+[2021.11.10-14.53.51:287][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1825940, Size=16, Default__Drawing_C Function /Game/Blueprint/MonsterSpawn/Drawing.Drawing_C:ExecuteUbergraph_Drawing
+[2021.11.10-14.53.51:334][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1824dd0, Size=16, Default__EntryPoint_C Function /Game/Blueprint/MonsterSpawn/EntryPoint.EntryPoint_C:ExecuteUbergraph_EntryPoint
+[2021.11.10-14.53.51:335][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e1824dd0, Size=16
+[2021.11.10-14.53.51:335][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1824dd0, Size=16, Default__EntryPoint_C Function /Engine/Transient.REINST_EntryPoint_C_27:ExecuteUbergraph_EntryPoint
+[2021.11.10-14.53.51:336][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1824dc0, Size=16, Default__EntryPoint_C Function /Game/Blueprint/MonsterSpawn/EntryPoint.EntryPoint_C:ExecuteUbergraph_EntryPoint
+[2021.11.10-14.53.51:352][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e1824ad0, Size=16, Default__ExitPoint_C Function /Game/Blueprint/MonsterSpawn/ExitPoint.ExitPoint_C:ExecuteUbergraph_ExitPoint
+[2021.11.10-14.53.51:360][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e18246c0, Size=16, Default__RoutPoint_C Function /Game/Blueprint/MonsterSpawn/RoutPoint.RoutPoint_C:ExecuteUbergraph_RoutPoint
+[2021.11.10-14.53.51:362][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e18246c0, Size=16
+[2021.11.10-14.53.51:362][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e18246c0, Size=16, Default__RoutPoint_C Function /Engine/Transient.REINST_RoutPoint_C_31:ExecuteUbergraph_RoutPoint
+[2021.11.10-14.53.51:363][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149e18246d0, Size=16, Default__RoutPoint_C Function /Game/Blueprint/MonsterSpawn/RoutPoint.RoutPoint_C:ExecuteUbergraph_RoutPoint
+[2021.11.10-14.53.51:371][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e39970, Size=4, Default__Anim_ArmsBP_C Function /Game/Animations/FPP/Anim_ArmsBP.Anim_ArmsBP_C:ExecuteUbergraph_Anim_ArmsBP
+[2021.11.10-14.53.51:373][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e39970, Size=4
+[2021.11.10-14.53.51:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e39970, Size=4, Default__Anim_ArmsBP_C Function /Engine/Transient.REINST_Anim_ArmsBP_C_4:ExecuteUbergraph_Anim_ArmsBP
+[2021.11.10-14.53.51:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e39900, Size=4, Default__Anim_ArmsBP_C Function /Game/Animations/FPP/Anim_ArmsBP.Anim_ArmsBP_C:ExecuteUbergraph_Anim_ArmsBP
+[2021.11.10-14.53.51:401][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e394e8, Size=4, Default__BP_Effect_Explosion_C Function /Game/Blueprint/Play/BP_Effect_Explosion.BP_Effect_Explosion_C:ExecuteUbergraph_BP_Effect_Explosion
+[2021.11.10-14.53.51:402][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e394e8, Size=4
+[2021.11.10-14.53.51:402][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e394e8, Size=4, Default__BP_Effect_Explosion_C Function /Engine/Transient.REINST_BP_Effect_Explosion_C_34:ExecuteUbergraph_BP_Effect_Explosion
+[2021.11.10-14.53.51:403][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014985e39420, Size=4, Default__BP_Effect_Explosion_C Function /Game/Blueprint/Play/BP_Effect_Explosion.BP_Effect_Explosion_C:ExecuteUbergraph_BP_Effect_Explosion
+[2021.11.10-14.53.51:411][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498529e0c0, Size=272, Default__BP_FPSProjectile_C Function /Game/Blueprint/Play/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2021.11.10-14.53.51:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498529e0c0, Size=272
+[2021.11.10-14.53.51:414][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498529e0c0, Size=272, Default__BP_FPSProjectile_C Function /Engine/Transient.REINST_BP_FPSProjectile_C_36:ExecuteUbergraph_BP_FPSProjectile
+[2021.11.10-14.53.51:416][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001498529dbc0, Size=272, Default__BP_FPSProjectile_C Function /Game/Blueprint/Play/BP_FPSProjectile.BP_FPSProjectile_C:ExecuteUbergraph_BP_FPSProjectile
+[2021.11.10-14.53.51:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014984de8dc0, Size=44, Default__BP_SlamMgr_C Function /Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.11.10-14.53.51:488][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014984de8dc0, Size=44
+[2021.11.10-14.53.51:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014984d74610, Size=44, Default__BP_SlamMgr_C Function /Engine/Transient.REINST_BP_SlamMgr_C_44:ExecuteUbergraph_BP_SlamMgr
+[2021.11.10-14.53.51:500][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149d7ed7490, Size=44, Default__BP_SlamMgr_C Function /Game/Blueprint/SLAM/BP_SlamMgr.BP_SlamMgr_C:ExecuteUbergraph_BP_SlamMgr
+[2021.11.10-14.53.51:511][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149d7ee3580, Size=2560, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.11.10-14.53.51:561][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149d7ee3580, Size=2560
+[2021.11.10-14.53.51:561][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149d7ee3580, Size=2560, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_46:ExecuteUbergraph_Stage
+[2021.11.10-14.53.51:588][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149877bb580, Size=2560, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.11.10-14.53.51:801][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.748200ms] /Game/Meshes/HeroFPP/HeroFPP.HeroFPP
+[2021.11.10-14.53.51:810][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.110900ms] /Game/Meshes/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47.SK_KA47
+[2021.11.10-14.53.51:869][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.943000ms] /Game/Meshes/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag.SK_DeerStag
+[2021.11.10-14.53.51:965][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.571200ms] /Game/Meshes/Spider/Spider_3.Spider_3
+[2021.11.10-14.53.51:996][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.433100ms] /Game/Meshes/AnimalVarietyPack/Pig/Meshes/SK_Pig.SK_Pig
+[2021.11.10-14.53.52:014][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.405900ms] /Game/Meshes/AnimalVarietyPack/Fox/Meshes/SK_Fox.SK_Fox
+[2021.11.10-14.53.52:164][  0]LogAIModule: Creating AISystem for world Stage
+[2021.11.10-14.53.52:175][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498499c580, Size=352
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498621f340, Size=88
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498622ac00, Size=624
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149861ca080, Size=416
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3bd60, Size=4
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b9b8, Size=4
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b8e8, Size=4
+[2021.11.10-14.53.52:190][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e3b830, Size=4
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985d6f380, Size=608
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985d59940, Size=288
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149845f6a40, Size=192
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e1825990, Size=16
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e1824dd0, Size=16
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149e18246c0, Size=16
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e39970, Size=4
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014985e394e8, Size=4
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001498529e0c0, Size=272
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014984d74610, Size=44
+[2021.11.10-14.53.52:191][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149d7ee3580, Size=2560
+[2021.11.10-14.53.52:193][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.10-14.53.52:304][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 110.809ms.
+[2021.11.10-14.53.52:304][  0]LogFileHelpers: Loading map 'Stage' took 1.349
+[2021.11.10-14.53.52:519][  0]LogCollectionManager: Loaded 0 collections in 0.001267 seconds
+[2021.11.10-14.53.52:571][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Saved/Collections/' took 0.01s
+[2021.11.10-14.53.52:572][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Developers/KISIK/Collections/' took 0.01s
+[2021.11.10-14.53.52:572][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal_Project/4.19.2/LetsGo/Content/Collections/' took 0.01s
+[2021.11.10-14.53.52:572][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2021.11.10-14.53.52:586][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2473 classes and 568 folders.
+[2021.11.10-14.53.52:595][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2021.11.10-14.53.52:662][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0014 seconds. Added 0 classes and 0 folders.
+[2021.11.10-14.53.52:670][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2021.11.10-14.53.52:681][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0013 seconds. Added 2 classes and 3 folders.
+[2021.11.10-14.53.52:762][  0]LogSlate: Took 0.000413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.10-14.53.52:765][  0]LogSlate: Took 0.002565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.10-14.53.52:769][  0]LogSlate: Took 0.002808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2021.11.10-14.53.52:770][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.10-14.53.52:774][  0]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.10-14.53.52:872][  0]LogRenderer: Reallocating scene render targets to support 1228x656 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-14.53.53:023][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2021.11.10-14.53.53:023][  0]LogLoad: (Engine Initialization) Total time: 54.68 seconds
+[2021.11.10-14.53.53:023][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.10-14.53.53:055][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.10-14.53.53:100][  0]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-14.53.53:203][  2]LogAssetRegistry: Asset discovery search completed in 9.9840 seconds
+[2021.11.10-14.53.53:207][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2021.11.10-14.53.53:207][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000081 seconds (updated 0 objects)
+[2021.11.10-14.53.54:045][ 99]LogLinker: Warning: 애셋 이름을 해석할 수 없습니다.
+[2021.11.10-14.53.57:037][441]LogUObjectGlobals: Warning: 'Object /Script/LetsGo.LetsGoGameMode' 오브젝트를 찾는 데 실패했습니다.
+[2021.11.10-14.53.57:060][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.11.10-14.53.57:306][462]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.10-14.53.57:790][494]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2021.11.10-14.53.58:066][494]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2021.11.10-14.53.58:371][494]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a2414ef00, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.11.10-14.53.58:372][494]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a2414eec8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2021.11.10-14.53.58:766][494]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.10-14.54.05:051][197]BlueprintLog: New page: Stage 컴파일
+[2021.11.10-14.54.05:231][197]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149877bb580, Size=2560
+[2021.11.10-14.54.05:231][197]LogUObjectGlobals: Created PersistentFrame Addr=0x0000014a28878100, Size=2560, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_62:ExecuteUbergraph_Stage
+[2021.11.10-14.54.05:257][197]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149a22a0b80, Size=2560, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.11.10-14.54.06:558][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Stage" FILE="../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.11.10-14.54.06:576][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000014a28878100, Size=2560
+[2021.11.10-14.54.06:767][310]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149a22a0b80, Size=2560
+[2021.11.10-14.54.06:767][310]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149ea64b580, Size=2560, Default__Stage_C Function /Engine/Transient.REINST_Stage_C_66:ExecuteUbergraph_Stage
+[2021.11.10-14.54.06:794][310]LogUObjectGlobals: Created PersistentFrame Addr=0x00000149ea01b580, Size=2560, Default__Stage_C Function /Game/Map/Stage.Stage_C:ExecuteUbergraph_Stage
+[2021.11.10-14.54.07:287][310]LogSavePackage: Save=693.62ms
+[2021.11.10-14.54.07:287][310]LogSavePackage: Moving '../../../../../../Unreal_Project/4.19.2/LetsGo/Saved/Stage46008D7A4C2A7C246D674FBC52A69A4B.tmp' to '../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap'
+[2021.11.10-14.54.07:291][310]LogSavePackage: Display: Finished SavePackage ../../../../../../Unreal_Project/4.19.2/LetsGo/Content/Map/Stage.umap
+[2021.11.10-14.54.07:320][310]LogFileHelpers: Saving map 'Stage' took 0.864
+[2021.11.10-14.54.09:192][506]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.11.10-14.54.09:213][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.54.09:213][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-14.54.09:213][506]PIE: New page: PIE 세션: Stage (2021. 11. 11. 오전 8:54:09)
+[2021.11.10-14.54.09:213][506]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.11.10-14.54.09:241][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028125s)
+[2021.11.10-14.54.09:242][506]LogAIModule: Creating AISystem for world Stage
+[2021.11.10-14.54.09:243][506]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2021.11.10-14.54.09:243][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.029756s)
+[2021.11.10-14.54.09:262][506]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000149ea64b580, Size=2560
+[2021.11.10-14.54.09:501][506]LogInit: XAudio2 using 'S27D850(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.11.10-14.54.09:549][506]LogInit: FAudioDevice initialized.
+[2021.11.10-14.54.09:598][506]LogLoad: Game class is 'BP_GameMode_C'
+[2021.11.10-14.54.09:601][506]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.11.10-23.54.09
+[2021.11.10-14.54.09:601][506]LogWorld: Bringing up level for play took: 0.000908
+[2021.11.10-14.54.09:604][506]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 11 classes and 0 folders.
+[2021.11.10-14.54.09:637][506]LetsGo: Warning: Character On.
+[2021.11.10-14.54.09:637][506]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: 0.403
+[2021.11.10-14.54.09:638][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.54.09:690][506]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.54.10:381][506]LetsGo: Warning: 0.300000 348.688440
+[2021.11.10-14.54.10:381][506]LetsGo: Warning: inlierCnt : 30, stableScore : 19.737771, beststatescore : 592.133141, bestStateIdx : 5, iter : 31
+[2021.11.10-14.54.10:381][506]LetsGo: Warning: 0.300000 373.556470
+[2021.11.10-14.54.10:381][506]LetsGo: Warning: inlierCnt : 58, stableScore : 28.851711, beststatescore : 1673.399216, bestStateIdx : 5, iter : 31
+[2021.11.10-14.54.10:381][506]LetsGo: Warning: 0.300000 331.253979
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: inlierCnt : 37, stableScore : 18.055994, beststatescore : 668.071783, bestStateIdx : 5, iter : 31
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: 0.300000 354.878650
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: inlierCnt : 27, stableScore : 17.345831, beststatescore : 468.337438, bestStateIdx : 6, iter : 31
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: 0.300000 173.956750
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: inlierCnt : 28, stableScore : 34.314773, beststatescore : 960.813642, bestStateIdx : 7, iter : 31
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: 0.300000 161.779779
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: inlierCnt : 71, stableScore : 26.356567, beststatescore : 1871.316237, bestStateIdx : 7, iter : 31
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: curBoxScore : 6234.071457 / bestBoxScore : 0.000000
+[2021.11.10-14.54.10:382][506]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.54.10:386][506]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.54.10:440][507]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.54.18:659][941]LogSlate: Took 0.000702 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-14.54.18:705][941]LogSlate: Took 0.002026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.10-14.54.18:707][941]LogSlate: Took 0.002289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.11.10-14.54.18:710][941]LogSlate: Took 0.002790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2021.11.10-14.54.18:715][941]LogSlate: Took 0.003882 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.11.10-14.54.18:716][941]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/NotoNaskhArabicUI-Regular.ttf' (144K)
+[2021.11.10-14.54.29:822][255]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.54.29:866][255]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.56.18:798][892]LogHotReload: New module detected: UE4Editor-LetsGo-6426.dll
+[2021.11.10-14.56.36:161][945]LogHotReload: Starting Hot-Reload from IDE
+[2021.11.10-14.56.36:285][945]LogClass: PlanePoint HotReload.
+[2021.11.10-14.56.36:305][945]LogContentBrowser: Native class hierarchy updated for 'LetsGo' in 0.0013 seconds. Added 10 classes and 4 folders.
+[2021.11.10-14.56.36:308][945]Display: HotReload successful (25 functions remapped  1 scriptstructs remapped)
+[2021.11.10-14.56.36:696][945]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2476 classes and 573 folders.
+[2021.11.10-14.56.36:722][945]Display: HotReload took  0.6s.
+[2021.11.10-14.56.50:457][466]LogTemp: Repeating last play command: 선택된 뷰포트
+[2021.11.10-14.56.50:483][466]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.56.50:484][466]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-14.56.50:484][466]PIE: New page: PIE 세션: Stage (2021. 11. 11. 오전 8:56:50)
+[2021.11.10-14.56.50:484][466]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Stage
+[2021.11.10-14.56.50:513][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027476s)
+[2021.11.10-14.56.50:514][466]LogAIModule: Creating AISystem for world Stage
+[2021.11.10-14.56.50:515][466]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2021.11.10-14.56.50:515][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Stage.Stage to /Game/Map/UEDPIE_0_Stage.Stage (0.029760s)
+[2021.11.10-14.56.50:809][466]LogInit: XAudio2 using 'S27D850(NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2021.11.10-14.56.50:861][466]LogInit: FAudioDevice initialized.
+[2021.11.10-14.56.50:896][466]LogLoad: Game class is 'BP_GameMode_C'
+[2021.11.10-14.56.50:898][466]LogWorld: Bringing World /Game/Map/UEDPIE_0_Stage.Stage up for play (max tick rate 0) at 2021.11.10-23.56.50
+[2021.11.10-14.56.50:898][466]LogWorld: Bringing up level for play took: 0.000785
+[2021.11.10-14.56.50:929][466]LetsGo: Warning: Character On.
+[2021.11.10-14.56.50:929][466]PIE: /Game/Map/UEDPIE_0_Stage 에 대한 에디터에서 플레이 시작 시간: -0.305
+[2021.11.10-14.56.50:929][466]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.56.50:981][466]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.51:638][466]LetsGo: Warning: 0.300000 348.688403
+[2021.11.10-14.56.51:639][466]LetsGo: Warning: inlierCnt : 36, stableScore : 16.375877, beststatescore : 589.531582, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.51:639][466]LetsGo: Warning: 0.300000 373.556470
+[2021.11.10-14.56.51:639][466]LetsGo: Warning: inlierCnt : 47, stableScore : 29.703880, beststatescore : 1396.082367, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.51:639][466]LetsGo: Warning: 0.300000 331.253979
+[2021.11.10-14.56.51:640][466]LetsGo: Warning: inlierCnt : 60, stableScore : 17.725942, beststatescore : 1063.556506, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.51:640][466]LetsGo: Warning: 0.300000 354.878613
+[2021.11.10-14.56.51:640][466]LetsGo: Warning: inlierCnt : 20, stableScore : 17.763195, beststatescore : 355.263902, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.51:640][466]LetsGo: Warning: 0.300000 173.956732
+[2021.11.10-14.56.51:640][466]LetsGo: Warning: inlierCnt : 38, stableScore : 43.050804, beststatescore : 1635.930537, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.51:641][466]LetsGo: Warning: 0.300000 161.779742
+[2021.11.10-14.56.51:641][466]LetsGo: Warning: inlierCnt : 86, stableScore : 27.128126, beststatescore : 2333.018828, bestStateIdx : 8, iter : 31
+[2021.11.10-14.56.51:641][466]LetsGo: Warning: curBoxScore : 7373.383721 / bestBoxScore : 0.000000
+[2021.11.10-14.56.51:641][466]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.51:644][466]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.51:664][467]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//Segmented Volume Thread///Thread_65ec_0///####STATCAT_Advanced#### old //STATGROUP_Threads//Segmented Volume Thread///Thread_250_0///####STATCAT_Advanced####
+[2021.11.10-14.56.51:725][472]LetsGo: Warning: regions_dist: 161  /  tolerance: 64.400002
+[2021.11.10-14.56.51:766][476]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.51:817][476]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.52:481][476]LetsGo: Warning: 0.300000 348.688403
+[2021.11.10-14.56.52:481][476]LetsGo: Warning: inlierCnt : 63, stableScore : 17.783252, beststatescore : 1120.344893, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.52:481][476]LetsGo: Warning: 0.300000 373.556396
+[2021.11.10-14.56.52:481][476]LetsGo: Warning: inlierCnt : 63, stableScore : 29.693933, beststatescore : 1870.717810, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.52:482][476]LetsGo: Warning: 0.300000 327.767102
+[2021.11.10-14.56.52:482][476]LetsGo: Warning: inlierCnt : 47, stableScore : 18.156991, beststatescore : 853.378557, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.52:482][476]LetsGo: Warning: 0.300000 354.878577
+[2021.11.10-14.56.52:482][476]LetsGo: Warning: inlierCnt : 21, stableScore : 17.719662, beststatescore : 372.112910, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.52:482][476]LetsGo: Warning: 0.300000 173.956769
+[2021.11.10-14.56.52:483][476]LetsGo: Warning: inlierCnt : 39, stableScore : 42.424252, beststatescore : 1654.545828, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.52:483][476]LetsGo: Warning: 0.300000 161.779816
+[2021.11.10-14.56.52:483][476]LetsGo: Warning: inlierCnt : 56, stableScore : 28.845766, beststatescore : 1615.362874, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.52:483][476]LetsGo: Warning: curBoxScore : 7486.462872 / bestBoxScore : 7373.383721
+[2021.11.10-14.56.52:483][476]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.52:486][476]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.52:568][486]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.52:604][490]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.52:661][490]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.53:333][490]LetsGo: Warning: 0.300000 348.688403
+[2021.11.10-14.56.53:333][490]LetsGo: Warning: inlierCnt : 45, stableScore : 16.417429, beststatescore : 738.784297, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.53:334][490]LetsGo: Warning: 0.300000 373.556433
+[2021.11.10-14.56.53:334][490]LetsGo: Warning: inlierCnt : 52, stableScore : 35.835313, beststatescore : 1863.436295, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.53:334][490]LetsGo: Warning: 0.300000 327.767139
+[2021.11.10-14.56.53:334][490]LetsGo: Warning: inlierCnt : 28, stableScore : 18.459432, beststatescore : 516.864095, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.53:335][490]LetsGo: Warning: 0.300000 351.143042
+[2021.11.10-14.56.53:335][490]LetsGo: Warning: inlierCnt : 24, stableScore : 22.399690, beststatescore : 537.592560, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.53:335][490]LetsGo: Warning: 0.300000 173.956714
+[2021.11.10-14.56.53:335][490]LetsGo: Warning: inlierCnt : 25, stableScore : 40.163625, beststatescore : 1004.090624, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.53:335][490]LetsGo: Warning: 0.300000 165.258893
+[2021.11.10-14.56.53:336][490]LetsGo: Warning: inlierCnt : 70, stableScore : 33.879307, beststatescore : 2371.551459, bestStateIdx : 8, iter : 31
+[2021.11.10-14.56.53:336][490]LetsGo: Warning: curBoxScore : 7032.319329 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.53:336][490]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.53:337][490]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.53:406][498]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.53:440][501]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.53:496][501]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.54:178][501]LetsGo: Warning: 0.300000 348.688477
+[2021.11.10-14.56.54:178][501]LetsGo: Warning: inlierCnt : 35, stableScore : 17.610892, beststatescore : 616.381211, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.54:179][501]LetsGo: Warning: 0.300000 373.556323
+[2021.11.10-14.56.54:179][501]LetsGo: Warning: inlierCnt : 67, stableScore : 30.112182, beststatescore : 2017.516197, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.54:179][501]LetsGo: Warning: 0.300000 327.767175
+[2021.11.10-14.56.54:179][501]LetsGo: Warning: inlierCnt : 42, stableScore : 14.438638, beststatescore : 606.422807, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.54:179][501]LetsGo: Warning: 0.300000 354.878540
+[2021.11.10-14.56.54:180][501]LetsGo: Warning: inlierCnt : 25, stableScore : 19.201925, beststatescore : 480.048135, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.54:180][501]LetsGo: Warning: 0.300000 173.956750
+[2021.11.10-14.56.54:180][501]LetsGo: Warning: inlierCnt : 30, stableScore : 39.334117, beststatescore : 1180.023502, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.54:180][501]LetsGo: Warning: 0.300000 161.779797
+[2021.11.10-14.56.54:180][501]LetsGo: Warning: inlierCnt : 70, stableScore : 31.061259, beststatescore : 2174.288095, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.54:181][501]LetsGo: Warning: curBoxScore : 7074.679948 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.54:181][501]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.54:182][501]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.54:246][509]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.54:411][528]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.54:481][528]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.55:126][528]LetsGo: Warning: 0.300000 348.688367
+[2021.11.10-14.56.55:126][528]LetsGo: Warning: inlierCnt : 45, stableScore : 23.327549, beststatescore : 1049.739684, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: 0.300000 373.556396
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: inlierCnt : 60, stableScore : 26.200356, beststatescore : 1572.021372, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: 0.300000 331.253906
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: inlierCnt : 66, stableScore : 19.602228, beststatescore : 1293.747065, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: 0.300000 358.614111
+[2021.11.10-14.56.55:127][528]LetsGo: Warning: inlierCnt : 22, stableScore : 23.954084, beststatescore : 526.989844, bestStateIdx : 3, iter : 31
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: 0.300000 173.956732
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: inlierCnt : 15, stableScore : 38.913897, beststatescore : 583.708460, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: 0.300000 163.519336
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: inlierCnt : 48, stableScore : 25.866230, beststatescore : 1241.579024, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: curBoxScore : 6267.785449 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.55:128][528]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.55:132][528]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.55:207][536]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.55:280][543]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.55:351][543]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.56:054][543]LetsGo: Warning: 0.300000 348.688477
+[2021.11.10-14.56.56:054][543]LetsGo: Warning: inlierCnt : 34, stableScore : 22.129992, beststatescore : 752.419715, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.56:054][543]LetsGo: Warning: 0.300000 373.556396
+[2021.11.10-14.56.56:055][543]LetsGo: Warning: inlierCnt : 48, stableScore : 28.888698, beststatescore : 1386.657504, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.56:055][543]LetsGo: Warning: 0.300000 331.254089
+[2021.11.10-14.56.56:055][543]LetsGo: Warning: inlierCnt : 61, stableScore : 19.033951, beststatescore : 1161.071024, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.56:055][543]LetsGo: Warning: 0.300000 354.878540
+[2021.11.10-14.56.56:055][543]LetsGo: Warning: inlierCnt : 14, stableScore : 33.732597, beststatescore : 472.256362, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.56:056][543]LetsGo: Warning: 0.300000 173.956750
+[2021.11.10-14.56.56:056][543]LetsGo: Warning: inlierCnt : 22, stableScore : 40.860999, beststatescore : 898.941984, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.56:056][543]LetsGo: Warning: 0.300000 161.779797
+[2021.11.10-14.56.56:056][543]LetsGo: Warning: inlierCnt : 74, stableScore : 25.290175, beststatescore : 1871.472928, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.56:056][543]LetsGo: Warning: curBoxScore : 6542.819518 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.56:057][543]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.56:060][543]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.56:086][546]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.56:140][552]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.56:214][552]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.56:916][552]LetsGo: Warning: 0.300000 348.688367
+[2021.11.10-14.56.56:917][552]LetsGo: Warning: inlierCnt : 54, stableScore : 15.112074, beststatescore : 816.052010, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.56:917][552]LetsGo: Warning: 0.300000 373.556433
+[2021.11.10-14.56.56:917][552]LetsGo: Warning: inlierCnt : 49, stableScore : 35.863093, beststatescore : 1757.291549, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.56:917][552]LetsGo: Warning: 0.300000 327.767065
+[2021.11.10-14.56.56:918][552]LetsGo: Warning: inlierCnt : 35, stableScore : 17.743723, beststatescore : 621.030290, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.56:918][552]LetsGo: Warning: 0.300000 351.143042
+[2021.11.10-14.56.56:918][552]LetsGo: Warning: inlierCnt : 27, stableScore : 19.019402, beststatescore : 513.523858, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.56:918][552]LetsGo: Warning: 0.300000 173.956732
+[2021.11.10-14.56.56:918][552]LetsGo: Warning: inlierCnt : 23, stableScore : 37.552816, beststatescore : 863.714759, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.56:919][552]LetsGo: Warning: 0.300000 166.998450
+[2021.11.10-14.56.56:919][552]LetsGo: Warning: inlierCnt : 80, stableScore : 32.842164, beststatescore : 2627.373141, bestStateIdx : 8, iter : 31
+[2021.11.10-14.56.56:919][552]LetsGo: Warning: curBoxScore : 7198.985606 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.56:919][552]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.56:925][552]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.56:948][554]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.56:990][557]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.57:060][557]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.57:723][557]LetsGo: Warning: 0.300000 348.688367
+[2021.11.10-14.56.57:723][557]LetsGo: Warning: inlierCnt : 29, stableScore : 20.519926, beststatescore : 595.077863, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.57:724][557]LetsGo: Warning: 0.300000 373.556396
+[2021.11.10-14.56.57:724][557]LetsGo: Warning: inlierCnt : 63, stableScore : 28.513270, beststatescore : 1796.336024, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.57:724][557]LetsGo: Warning: 0.300000 331.253906
+[2021.11.10-14.56.57:724][557]LetsGo: Warning: inlierCnt : 47, stableScore : 16.874376, beststatescore : 793.095684, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.57:725][557]LetsGo: Warning: 0.300000 354.878540
+[2021.11.10-14.56.57:725][557]LetsGo: Warning: inlierCnt : 29, stableScore : 17.988857, beststatescore : 521.676850, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.57:725][557]LetsGo: Warning: 0.300000 173.956732
+[2021.11.10-14.56.57:725][557]LetsGo: Warning: inlierCnt : 29, stableScore : 39.017194, beststatescore : 1131.498619, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.57:725][557]LetsGo: Warning: 0.300000 161.779761
+[2021.11.10-14.56.57:726][557]LetsGo: Warning: inlierCnt : 86, stableScore : 30.252620, beststatescore : 2601.725359, bestStateIdx : 8, iter : 31
+[2021.11.10-14.56.57:726][557]LetsGo: Warning: curBoxScore : 7439.410399 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.57:726][557]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.57:730][557]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.57:801][564]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.57:849][569]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.57:922][569]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.58:589][569]LetsGo: Warning: 0.300000 348.688403
+[2021.11.10-14.56.58:589][569]LetsGo: Warning: inlierCnt : 38, stableScore : 19.595491, beststatescore : 744.628657, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.58:589][569]LetsGo: Warning: 0.300000 373.556470
+[2021.11.10-14.56.58:589][569]LetsGo: Warning: inlierCnt : 33, stableScore : 28.829182, beststatescore : 951.363015, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: 0.300000 331.253943
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: inlierCnt : 58, stableScore : 18.921852, beststatescore : 1097.467406, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: 0.300000 358.614185
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: inlierCnt : 19, stableScore : 19.053129, beststatescore : 362.009446, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: 0.300000 173.956750
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: inlierCnt : 22, stableScore : 31.980011, beststatescore : 703.560232, bestStateIdx : 7, iter : 31
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: 0.300000 161.779779
+[2021.11.10-14.56.58:590][569]LetsGo: Warning: inlierCnt : 56, stableScore : 23.191826, beststatescore : 1298.742260, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.58:592][569]LetsGo: Warning: curBoxScore : 5157.771016 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.58:592][569]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.58:594][569]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.58:650][576]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
+[2021.11.10-14.56.58:687][580]LetsGo: Warning: Segmented Box Datafile is saved.
+[2021.11.10-14.56.58:757][580]LetsGo: Warning: KDTreeOutlierFiltering:: Classified 1258 points as outliers.
+[2021.11.10-14.56.59:414][580]LetsGo: Warning: 0.300000 348.688367
+[2021.11.10-14.56.59:415][580]LetsGo: Warning: inlierCnt : 33, stableScore : 19.234534, beststatescore : 634.739613, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.59:415][580]LetsGo: Warning: 0.300000 373.556396
+[2021.11.10-14.56.59:415][580]LetsGo: Warning: inlierCnt : 47, stableScore : 30.138605, beststatescore : 1416.514417, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.59:415][580]LetsGo: Warning: 0.300000 331.253979
+[2021.11.10-14.56.59:415][580]LetsGo: Warning: inlierCnt : 50, stableScore : 17.341512, beststatescore : 867.075606, bestStateIdx : 4, iter : 31
+[2021.11.10-14.56.59:416][580]LetsGo: Warning: 0.300000 354.878613
+[2021.11.10-14.56.59:416][580]LetsGo: Warning: inlierCnt : 28, stableScore : 23.985284, beststatescore : 671.587954, bestStateIdx : 6, iter : 31
+[2021.11.10-14.56.59:416][580]LetsGo: Warning: 0.300000 173.956732
+[2021.11.10-14.56.59:416][580]LetsGo: Warning: inlierCnt : 26, stableScore : 36.640420, beststatescore : 952.650931, bestStateIdx : 5, iter : 31
+[2021.11.10-14.56.59:417][580]LetsGo: Warning: 0.300000 165.258875
+[2021.11.10-14.56.59:417][580]LetsGo: Warning: inlierCnt : 86, stableScore : 29.859963, beststatescore : 2567.956804, bestStateIdx : 8, iter : 31
+[2021.11.10-14.56.59:417][580]LetsGo: Warning: curBoxScore : 7110.525326 / bestBoxScore : 7486.462872
+[2021.11.10-14.56.59:417][580]LetsGo: Warning: --------------------------------------
+[2021.11.10-14.56.59:419][580]LetsGo: Warning: Best Box Datafile is saved.
+[2021.11.10-14.56.59:432][581]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.56.59:479][581]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Stage.Stage:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Stage.Stage:PersistentLevel.Stage' with GeneratedClass '/Game/Map/Stage.Stage_C' with ClassGeneratedBy '/Game/Map/Stage.Stage:PersistentLevel.Stage'
+[2021.11.10-14.56.59:504][581]LetsGo: Warning: regions_dist: 160  /  tolerance: 64.000000
