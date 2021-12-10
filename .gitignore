@@ -1,6 +1,8 @@
 # VS Generated Files
 *.suo
 *.db
+.vs/
+
 
 # UnrealEngine Generated Files
 */Binaries
