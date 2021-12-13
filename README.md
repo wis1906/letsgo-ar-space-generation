@@ -5,14 +5,9 @@
 직육면체 형태의 공간의 특성을 고려한 공간 인식은 대부분의 실내 공간에서 활용할 수 있습니다.
 직육면체 공간에서 실내의 특성을 고려한 기하 검출 방법을 통해 많은 영역을 비교적 정확하게 검출할 수 있습니다.
 
-<div class="text-center">
-    <div class="text-center text-bold" style="height:500px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/introduce_ARSpace.png" alt="기하 검출을 통한 증강 게임 공간 구성" height="90%">
-        <figcaption>기하 검출을 통한 증강 게임 공간 구성</figcaption></div>
-    <div class="text-center text-bold" style="height:500px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/introduce_advence.jpg" alt="게임 공간 속 세밀한 기하 예측" height="90%">
-        <figcaption>게임 공간 속 세밀한 기하 예측</figcaption></div>
-    <div style="clear:both;"></div>
+<div align="center">
+  <img class="scalezoom_small" src="https://user-images.githubusercontent.com/32832618/145800795-80c31fa3-689f-4b04-8698-baaa697110a1.png" height="300">
+  <img class="scalezoom_small" src="https://user-images.githubusercontent.com/32832618/145800598-1699f01c-c889-409d-8f7f-f3ce92e3cc15.jpg" height="300">
 </div>
 
 본 연구 프로그램은 직육면체 형태의 실내 공간에서 증강 게임 공간을 구성하는 방법을 제안합니다.<br>
@@ -21,22 +16,14 @@
 또한, 제안 알고리즘은 계층적 유클리드 군집화와 군집 간소화 및 조정을 통해 다중 객체 영역을 검출합니다.<br>
 제안하는 검출 알고리즘은 점군의 밀도 변화에 강건하고, 실내 표면이나 객체에 대한 완전한 기하 정보를 검출할 수 있습니다.<br>
 
-<div class="text-center">
-	<div class="text-center text-bold" style="height:500px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-		<img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/introduce_contents.png" alt="증강 게임 공간을 기반으로 한 콘텐츠 구현" height="90%">
-		<figcaption>증강 게임 공간을 기반으로 한 콘텐츠 구현</figcaption></div>
-    <div style="clear:both;"></div>
+<div align="center">
+  <img class="scalezoom_small" src="https://user-images.githubusercontent.com/32832618/145800609-b1bf6641-7290-46bd-83eb-c507f1ee67fe.png" height="400">
 </div>
 
 # 상세 설명
-<div class="text-center">
-    <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/detail_pipeline_detection.png" alt="실내 기하 검출 과정 파이프라인" height="85%">
-        <figcaption>실내 기하 검출 과정 파이프라인</figcaption></div>
-    <div class="text-center text-bold" style="height:400px; border:4px outset purple; display:inline-block; margin-right:5px; padding:5px;">
-        <img class="scalezoom_small" src="/assets/images/blog/ARSpaceGeneration/detail_pipeline_gamespace.png" alt="증강 게임 공간 구성을 위한 파이프라인" height="85%">
-        <figcaption>증강 게임 공간 구성을 위한 파이프라인</figcaption></div>
-    <div style="clear:both;"></div>
+<div align="center">
+  <img class="scalezoom_small" src="https://user-images.githubusercontent.com/32832618/145800944-9f5ae1d9-e6c1-413a-8a51-250aafbb4c44.png" height="250">
+  <img class="scalezoom_small" src="https://user-images.githubusercontent.com/32832618/145800947-a548d94e-8c31-4373-9758-e7955174e511.png" height="250">
 </div>
 실내 기하 검출 과정은 전처리, 실내 표면 직육면체 검출, 다중 객체 영역 검출의 3개의 주요 과정으로 구성됩니다.
 먼저, 전처리 과정에서는 구면 파노라마 기반 Vision SLAM을 통해 실시간 점군 데이터를 획득하고, KDTree를 통해 이웃점과 거리가 먼 이상점을 제거합니다.
