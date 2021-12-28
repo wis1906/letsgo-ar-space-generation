@@ -42,8 +42,8 @@ This is AR workspace generation method using volume detection based on point clo
 - It is developed using UE 4.19.2 Environment
 
 - Compile with visual studio 2017 in "Development Editor" + "Win64" mode.
-- Change Pathes String in mainST.cpp(this is main singletone) in C++ script then build.
-- Before c++ build, delete solution file(LetsGo.sln), then execute "Generate Visual Studio Project File" in .uproject.
+- Change pathes string in mainST.cpp(this is main singletone) in C++ script then build.
+- Before C++ build, delete solution file(LetsGo.sln), then execute "Generate Visual Studio Project File" in .uproject.
 
-- Before testing program, you need to store your data in LetsGo/inputs/...
-- We commite without input videos because of size. so add videos of spherical panorama
+- Before testing program, you need to store your experimental data in LetsGo/inputs/...
+- We commit without input videos because of size. So add your spherical panoramic videos
